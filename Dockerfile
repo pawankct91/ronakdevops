@@ -5,4 +5,4 @@ From tomcat:8-jre8
 MAINTAINER "Ronak <ronakjn7@gmail.com>"
 
 # Copy to images tomcat path
-ADD dockerwar.war /usr/local/tomcat/webapps/
+ADD addressbook.war /usr/local/tomcat/webapps/
